@@ -1,0 +1,1 @@
+{"event_timestamp": "2025-06-07 00:00:12", "from": "your_mail@your_domain.com", "from_addr": "your_mail@your_domain.com", "from_tips": null, "to": ["AAA@BBB.com"], "subject": "your_subject", "message-id": "<XXX>", "size": 206, "file_path": "z:\\mdaemon\\queues\\local\\pdd666.msg", "to_addr": "local"}

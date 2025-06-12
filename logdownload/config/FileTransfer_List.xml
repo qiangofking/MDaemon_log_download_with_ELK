@@ -1,0 +1,10 @@
+<MDaemon>
+<API productversion="25.0.0" serviceversion="25.0.0.1">
+<Request version="25.0" echo="1" verbose="0">
+<Operation>FileTransfer</Operation>
+<Parameters>
+<Job action="list" _rIdx="0" base="LogFiles" extension="log"/>
+</Parameters>
+</Request>
+</API>
+</MDaemon>
