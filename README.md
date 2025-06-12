@@ -34,12 +34,12 @@
 
 ### Tips
 1. I just downed a "routing.log", and others followed the same routine; 
-2. Alarm? None; 
-3. Disposal? None;
-4. Equipment linkage? None;
+2. Alarm? None; There can also be;
+3. Disposal? None; There can also be;
+4. Equipment linkage? None; There can also be;
 
 ### 小声嘀咕
 1. 我就载了个routing.log，其他的也这套路；
-2. 告警？没有；
-3. 处置？没有；
-4. 设备联动？没有；
+2. 告警？没有；也可以有;
+3. 处置？没有；也可以有;
+4. 设备联动？没有；也可以有;
