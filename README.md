@@ -1,15 +1,15 @@
 # MDaemon_log_download_with_ELK(用ELK比划MD日志)
-### Describe（嘀咕）
+### Describe
 - Through the MDaemon email server API(API Version: 25.0.2), log downloads are implemented and linked to ELK visualization display
 - 通过MDaemon邮件服务器API(API Version: 25.0.2)，实现日志下载，联动ELK可视化展示
 
-### Overview（瞅瞅）
+### Overview
 
 ![image](https://github.com/user-attachments/assets/3f6fb2e5-0a3b-4583-94f1-d8971c5c2a7a)
 ![image](https://github.com/user-attachments/assets/7afd2986-4c8c-47a2-8b30-60fbe61dd90e)
 
 
-### framework（套路）
+### framework
 ![image](https://github.com/user-attachments/assets/bbd1d942-779e-4218-bc30-291739ce0a7e)
 ![image](https://github.com/user-attachments/assets/77a9f8d4-cd2f-4dd2-83e7-a841aa0fd2c2)
 
@@ -40,14 +40,7 @@
 3. Disposal? None; There can also be;
 4. Equipment linkage? None; There can also be;
 
-### 小声嘀咕
-1. 我就载了个routing.log，其他的也这套路；
-2. 告警？没有；也可以有;
-3. 处置？没有；也可以有;
-4. 设备联动？没有；也可以有;
-
-
-### Partial Detail Display（个别比划）
+### Partial Detail Display
 ```
 # 核心功能验证：下载密文routing日志（返当日日志文件id号，下载结果）
 python util\fileManager.py
